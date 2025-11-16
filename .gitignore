@@ -1,0 +1,8 @@
+.vscode
+__pycache__
+.venv
+.git
+.idea
+.pytest_cache
+.trae
+requirements.txt
